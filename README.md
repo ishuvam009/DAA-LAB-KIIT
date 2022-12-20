@@ -16,4 +16,3 @@ Q5. Write a program to display an array of n integers (n&gt;1) in O(n) time, whe
 array should contain the product of all elements in the array except the element at the given index. No
 additional array declaration is allowed.
 Example: Input : 10, 4, 1, 6, 2 Output : 48,120,480,80,240
-
