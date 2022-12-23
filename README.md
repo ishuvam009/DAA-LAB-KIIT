@@ -17,7 +17,7 @@ array should contain the product of all elements in the array except the element
 additional array declaration is allowed.
 Example: Input : 10, 4, 1, 6, 2 Output : 48,120,480,80,240
 
-#DAA Lab-2 (Using function)
+DAA Lab-2 (Using function)
 1. Write a program to store ransom numbers into an array of n integers, find out the smallest and
 largest number stored in it. N is inputted by the user.
 2. Write a program to rearrange the elements of an array of n integers, such that all the even
