@@ -30,3 +30,5 @@ a. Find the no. of non-zero elements in A.
 b. Find the sum of elements above the leading diagonal.
 c. Display the elements bellow the minor diagonal.
 d. Find the product of the diagonal elements.
+
+
