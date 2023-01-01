@@ -32,3 +32,5 @@ c. Display the elements bellow the minor diagonal.
 d. Find the product of the diagonal elements.
 
 
+
+
